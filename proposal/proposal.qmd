@@ -1,0 +1,42 @@
+---
+title: "Project Proposal Title"
+author: "Student Name(s)"
+date: today
+format: html
+bibliography: ../references.bib
+csl: ../apa.csl
+---
+
+# Introduction
+
+Introduce the topic and explain why the question matters. Summarize relevant
+previous work, identify what your project will add, and cite sources using the
+BibTeX entries in `references.bib`.
+
+# Research Questions and Aims
+
+State the main research question and any supporting questions. Explain what
+you aim to learn from the data. State hypotheses when they are useful for the
+question.
+
+# Data
+
+Identify the data you plan to use. Describe its source, observational unit,
+population or scope, time and geographic coverage, key variables, and access or
+license conditions. Explain why the data can address your research questions
+and note important gaps or limitations.
+
+# Analysis Plan
+
+Describe how you will prepare and explore the data, what summaries,
+visualizations, or methods you expect to use, and how the results will address
+each research question. Explain how you will check assumptions and evaluate
+the limitations of the analysis. Choose methods that fit the question and data.
+
+# Feasibility and Limitations
+
+Identify likely challenges, what additional information or skills you may
+need, and how you will adapt if the data or initial analysis does not support
+your plan.
+
+# References

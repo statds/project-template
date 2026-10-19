@@ -1,0 +1,44 @@
+---
+title: "Project Presentation Title"
+subtitle: "A concise description of the project"
+author: "Student Name(s)"
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+bibliography: ../references.bib
+csl: ../apa.csl
+---
+
+## Research Question
+
+State the main question and why the audience should care about it.
+
+## Data
+
+Describe the data source, observational unit, scope, and key variables. Include
+the data limitations that matter for interpreting the results.
+
+## Approach
+
+Explain the main steps in the analysis and why they address the research
+question.
+
+## Results
+
+Show the evidence that answers the research question. Use clear, labeled
+figures or tables and interpret the results in context.
+
+## Limitations
+
+Explain what the analysis cannot establish and identify important sources of
+uncertainty or bias.
+
+## Conclusion
+
+Answer the research question in a few sentences and state the main takeaway.
+
+## References
+
+Credit data sources and other work used in the presentation. Cite sources on
+the relevant slides using the BibTeX keys in `references.bib`.

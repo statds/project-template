@@ -1,0 +1,51 @@
+---
+title: "Project Report Title"
+author: "Student Name(s)"
+date: today
+format:
+  html:
+    toc: true
+    number-sections: true
+bibliography: ../references.bib
+csl: ../apa.csl
+---
+
+# Abstract
+
+Summarize the question, data, approach, main findings, and conclusion. Write
+this section after completing the report.
+
+# Introduction
+
+Explain the problem and its importance, summarize relevant work, identify the
+project's contribution, and state the research questions. Briefly preview the
+remaining sections.
+
+# Data
+
+Describe the data source, observational unit, scope, key variables, and
+preparation. Explain exclusions, missing values, and limitations that affect
+interpretation.
+
+# Methods
+
+Describe the exploratory and modeling methods, explain why they address the
+research questions, and state relevant assumptions. Include enough detail for
+a reader to understand and reproduce the analysis.
+
+# Results
+
+Present the findings in an order that answers the research questions. Explain
+the figures, tables, and model results in context, including uncertainty where
+relevant.
+
+# Discussion
+
+Interpret the findings, discuss limitations and alternative explanations, and
+explain what the analysis can and cannot establish.
+
+# Conclusion
+
+Answer the research question directly and summarize the main takeaway.
+
+# References
