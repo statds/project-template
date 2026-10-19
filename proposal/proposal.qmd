@@ -1,42 +1,56 @@
 ---
-title: "Project Proposal Title"
-author: "Student Name(s)"
+title: "This is an Interesting Title"
+author: "First M. Last"
 date: today
-format: html
+format:
+  pdf:
+    colorlinks: true
+    linkcolor: blue
+    number-sections: true
+    geometry: margin=1in
+    fontsize: 11pt
+cite-method: citeproc
+link-citations: true
+suppress-bibliography: false
 bibliography: ../references.bib
 csl: ../apa.csl
 ---
 
 # Introduction
 
-Introduce the topic and explain why the question matters. Summarize relevant
-previous work, identify what your project will add, and cite sources using the
-BibTeX entries in `references.bib`.
+Introduce the background for your research and address three questions: Why
+should readers care about this topic? What has already been done? What is new
+in your proposed project?
 
-# Research Questions and Aims
+Cite at least two relevant references in the introduction. Use the BibTeX keys
+in `references.bib`. For example, cite a source in the text as
+@agonafir2022machine, or cite it in parentheses as [@agonafir2022understanding].
+Replace these example sources with work relevant to your project.
 
-State the main research question and any supporting questions. Explain what
-you aim to learn from the data. State hypotheses when they are useful for the
-question.
+# Specific Aims
+
+Formulate your research question or questions. Translate them into statistical
+or data-science questions that you can address with the available data.
 
 # Data
 
-Identify the data you plan to use. Describe its source, observational unit,
-population or scope, time and geographic coverage, key variables, and access or
-license conditions. Explain why the data can address your research questions
-and note important gaps or limitations.
+Identify the data needed for your project rather than stating that you will
+try to find data. Describe the data source, coverage, key variables, and
+structure, and explain why the data are suitable for your research questions.
+Include relevant information about the observational unit, collection or
+sampling process, time and geographic coverage, access, and use restrictions.
 
-# Analysis Plan
+# Methods and Research Design
 
-Describe how you will prepare and explore the data, what summaries,
-visualizations, or methods you expect to use, and how the results will address
-each research question. Explain how you will check assumptions and evaluate
-the limitations of the analysis. Choose methods that fit the question and data.
+Describe the research design and methods you plan to use. Cite relevant
+methodological references when appropriate. Explain how your planned modeling,
+visualization, analysis, prediction, validation, or other methods will help
+answer your research questions.
 
-# Feasibility and Limitations
+# Discussion
 
-Identify likely challenges, what additional information or skills you may
-need, and how you will adapt if the data or initial analysis does not support
-your plan.
+Identify the most challenging parts of the project and discuss its limitations.
+Describe a fallback plan in case you encounter unexpected data, analytical, or
+computational problems.
 
 # References
